@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(175, 219, 175);
+}
+
+.jumbotron{
+    background: url("images/198443.jpg");
+    opacity: 0.85;
+    width: auto;
+    height:auto;
+    
+}
+#demoFont {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 35px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #B745FF;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    }
+#demoFont2 {
+        font-family: Impact, Charcoal, sans-serif;
+        font-size: 29px;
+        letter-spacing: 2px;
+        word-spacing: 2px;
+        color: #52B8FF;
+        font-weight: 700;
+        text-decoration: none;
+        font-style: normal;
+        font-variant: normal;
+        text-transform: none;
+        }
